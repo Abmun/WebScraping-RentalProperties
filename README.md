@@ -1,4 +1,4 @@
-# WebScraping-Trulia.com
+# WebScraping-RentalProperties
 
 The real estate market is something that every person living in any country
 has to deal with, and as a result it makes a great topic about data analytics.
